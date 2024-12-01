@@ -1,0 +1,15 @@
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\bin\Debug\net8.0\anis_UserManagment.Queries.Application.deps.json
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\bin\Debug\net8.0\anis_UserManagment.Queries.Application.dll
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\bin\Debug\net8.0\anis_UserManagment.Queries.Application.pdb
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\bin\Debug\net8.0\anis_UserManagment.Queries.Domain.dll
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\bin\Debug\net8.0\anis_UserManagment.Queries.Domain.pdb
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\obj\Debug\net8.0\anis_UserManagment.Queries.Application.csproj.AssemblyReference.cache
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\obj\Debug\net8.0\anis_UserManagment.Queries.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\obj\Debug\net8.0\anis_UserManagment.Queries.Application.AssemblyInfoInputs.cache
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\obj\Debug\net8.0\anis_UserManagment.Queries.Application.AssemblyInfo.cs
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\obj\Debug\net8.0\anis_UserManagment.Queries.Application.csproj.CoreCompileInputs.cache
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\obj\Debug\net8.0\anis_UserManagment.Queries.Application.csproj.CopyComplete
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\obj\Debug\net8.0\anis_UserManagment.Queries.Application.dll
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\obj\Debug\net8.0\refint\anis_UserManagment.Queries.Application.dll
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\obj\Debug\net8.0\anis_UserManagment.Queries.Application.pdb
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Application\obj\Debug\net8.0\ref\anis_UserManagment.Queries.Application.dll

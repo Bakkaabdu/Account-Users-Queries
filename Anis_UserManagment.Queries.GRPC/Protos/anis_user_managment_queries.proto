@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "Anis_UserManagment.Queries.GRPC.Protos";
+
+
+service ManageUsersQueries{
+	rpc GetUsers (GetUsersRequest) returns (GetUsersResponse);
+
+}
+
+message GetUsersRequest{
+	string account_id= 1;
+}
+
+message GetUsersResponse{
+	string account_id= 1;
+	repeated string users =2;
+}

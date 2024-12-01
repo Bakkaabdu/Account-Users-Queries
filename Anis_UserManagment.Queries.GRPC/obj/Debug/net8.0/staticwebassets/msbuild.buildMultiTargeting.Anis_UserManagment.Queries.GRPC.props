@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Anis_UserManagment.Queries.GRPC.props" />
+</Project>

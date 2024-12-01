@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cQe7h8mk0oNWw3lNZvRLlJUlDP2rhtAtvncDYMwpAAb7LmnrAB5M5jLB/ZtEtkyYPDOHVieacdi6y/hUnpdUBg==",
+  "success": true,
+  "projectFilePath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Application\\anis_UserManagment.Queries.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

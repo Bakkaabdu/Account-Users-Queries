@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fEOkVxM+N8FLkphg/17KEnMtrXCGR/UnYOgrMayvVUE=",
+  "Source": "Anis_UserManagment.Queries.GRPC",
+  "BasePath": "_content/Anis_UserManagment.Queries.GRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

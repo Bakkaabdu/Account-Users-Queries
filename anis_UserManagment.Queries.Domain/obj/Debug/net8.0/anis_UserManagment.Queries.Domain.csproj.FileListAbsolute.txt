@@ -1,0 +1,12 @@
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Domain\bin\Debug\net8.0\anis_UserManagment.Queries.Domain.deps.json
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Domain\bin\Debug\net8.0\anis_UserManagment.Queries.Domain.dll
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Domain\bin\Debug\net8.0\anis_UserManagment.Queries.Domain.pdb
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Domain\obj\Debug\net8.0\anis_UserManagment.Queries.Domain.csproj.AssemblyReference.cache
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Domain\obj\Debug\net8.0\anis_UserManagment.Queries.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Domain\obj\Debug\net8.0\anis_UserManagment.Queries.Domain.AssemblyInfoInputs.cache
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Domain\obj\Debug\net8.0\anis_UserManagment.Queries.Domain.AssemblyInfo.cs
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Domain\obj\Debug\net8.0\anis_UserManagment.Queries.Domain.csproj.CoreCompileInputs.cache
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Domain\obj\Debug\net8.0\anis_UserManagment.Queries.Domain.dll
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Domain\obj\Debug\net8.0\refint\anis_UserManagment.Queries.Domain.dll
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Domain\obj\Debug\net8.0\anis_UserManagment.Queries.Domain.pdb
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Domain\obj\Debug\net8.0\ref\anis_UserManagment.Queries.Domain.dll

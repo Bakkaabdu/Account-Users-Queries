@@ -1,0 +1,17 @@
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\bin\Debug\net8.0\anis_UserManagment.Queries.Infra.deps.json
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\bin\Debug\net8.0\anis_UserManagment.Queries.Infra.dll
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\bin\Debug\net8.0\anis_UserManagment.Queries.Infra.pdb
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\bin\Debug\net8.0\anis_UserManagment.Queries.Application.dll
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\bin\Debug\net8.0\anis_UserManagment.Queries.Domain.dll
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\bin\Debug\net8.0\anis_UserManagment.Queries.Application.pdb
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\bin\Debug\net8.0\anis_UserManagment.Queries.Domain.pdb
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\obj\Debug\net8.0\anis_UserManagment.Queries.Infra.csproj.AssemblyReference.cache
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\obj\Debug\net8.0\anis_UserManagment.Queries.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\obj\Debug\net8.0\anis_UserManagment.Queries.Infra.AssemblyInfoInputs.cache
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\obj\Debug\net8.0\anis_UserManagment.Queries.Infra.AssemblyInfo.cs
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\obj\Debug\net8.0\anis_UserManagment.Queries.Infra.csproj.CoreCompileInputs.cache
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\obj\Debug\net8.0\anis_UserManagment.Queries.Infra.csproj.CopyComplete
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\obj\Debug\net8.0\anis_UserManagment.Queries.Infra.dll
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\obj\Debug\net8.0\refint\anis_UserManagment.Queries.Infra.dll
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\obj\Debug\net8.0\anis_UserManagment.Queries.Infra.pdb
+C:\files\bakendProject\Anis_UserManagment.Queries\anis_UserManagment.Queries.Infra\obj\Debug\net8.0\ref\anis_UserManagment.Queries.Infra.dll

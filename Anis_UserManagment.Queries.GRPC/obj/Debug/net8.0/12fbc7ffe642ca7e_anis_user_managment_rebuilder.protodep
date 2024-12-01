@@ -1,0 +1,3 @@
+obj\Debug\net8.0\Protos/AnisUserManagmentRebuilder.cs \
+obj\Debug\net8.0\Protos/AnisUserManagmentRebuilderGrpc.cs: C:/Users/msi/.nuget/packages/grpc.tools/2.62.0/build/native/include/google/protobuf/empty.proto\
+ Protos/anis_user_managment_rebuilder.proto

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option csharp_namespace = "Anis_UserManagment.Queries.GRPC.Protos";
+
+
+import "google/protobuf/empty.proto";
+
+service AccountUsersRebuilder{
+	rpc BuildAccountUsers (BuildRequest) returns (google.protobuf.Empty);
+}
+
+message BuildRequest {
+	int32 page = 1;
+	int32 size = 2;
+}

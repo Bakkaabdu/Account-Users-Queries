@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\Anis_UserManagment.Queries.GRPC\\Anis_UserManagment.Queries.GRPC.csproj": {}
+  },
+  "projects": {
+    "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Application\\anis_UserManagment.Queries.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Application\\anis_UserManagment.Queries.Application.csproj",
+        "projectName": "anis_UserManagment.Queries.Application",
+        "projectPath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Application\\anis_UserManagment.Queries.Application.csproj",
+        "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
+        "outputPath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Domain\\anis_UserManagment.Queries.Domain.csproj": {
+                "projectPath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Domain\\anis_UserManagment.Queries.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Domain\\anis_UserManagment.Queries.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Domain\\anis_UserManagment.Queries.Domain.csproj",
+        "projectName": "anis_UserManagment.Queries.Domain",
+        "projectPath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Domain\\anis_UserManagment.Queries.Domain.csproj",
+        "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
+        "outputPath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\Anis_UserManagment.Queries.GRPC\\Anis_UserManagment.Queries.GRPC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\Anis_UserManagment.Queries.GRPC\\Anis_UserManagment.Queries.GRPC.csproj",
+        "projectName": "Anis_UserManagment.Queries.GRPC",
+        "projectPath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\Anis_UserManagment.Queries.GRPC\\Anis_UserManagment.Queries.GRPC.csproj",
+        "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
+        "outputPath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\Anis_UserManagment.Queries.GRPC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Application\\anis_UserManagment.Queries.Application.csproj": {
+                "projectPath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Application\\anis_UserManagment.Queries.Application.csproj"
+              },
+              "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Infra\\anis_UserManagment.Queries.Infra.csproj": {
+                "projectPath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Infra\\anis_UserManagment.Queries.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Calzolari.Grpc.AspNetCore.Validation": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.62.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.20.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Infra\\anis_UserManagment.Queries.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Infra\\anis_UserManagment.Queries.Infra.csproj",
+        "projectName": "anis_UserManagment.Queries.Infra",
+        "projectPath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Infra\\anis_UserManagment.Queries.Infra.csproj",
+        "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
+        "outputPath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Application\\anis_UserManagment.Queries.Application.csproj": {
+                "projectPath": "C:\\files\\bakendProject\\Anis_UserManagment.Queries\\anis_UserManagment.Queries.Application\\anis_UserManagment.Queries.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.17.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
